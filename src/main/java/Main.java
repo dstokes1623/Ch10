@@ -9,9 +9,12 @@
  * @author 0798727
  */
 public class Main {
+    
     public static void main(String[] args) {
         
+        Pairot myBird = new Pairot(20.0, "Pairot");
         
+        Tiger myTiger = new Tiger(5, "African Tiger");
         
     }
 }
